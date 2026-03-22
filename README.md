@@ -4,7 +4,7 @@ Bridging artificial intelligence with molecular biology to unlock the secrets of
 
 ## Overview
 
-PSD is designed to predict the secondary structure of proteins directly from their amino acid sequences. Users can input their sequence data via FASTA or raw text formats to receive rapid, high-fidelity structural predictions. The tool operates with highly optimized inference, processing a sequence of 500 residues in under 1 second.
+PSD is designed to predict the secondary structure of proteins directly from their amino acid sequences. Users can input their sequence data via FASTA or raw text formats to receive rapid, high-fidelity structural predictions. 
 
 ## Technology and Model Architecture
 
